@@ -1,0 +1,1001 @@
+,past_3_years_bike_related_purchases,tenure,property_valuation,age,gender,wealth_segment,owns_car,state,y_pred
+0,86,14,6,60.0,Male,Mass Customer,Yes,QLD,0
+1,69,16,11,47.0,Male,Mass Customer,No,NSW,0
+2,10,10,5,43.0,Female,Affluent Customer,No,VIC,1
+3,64,5,1,38.0,Female,Affluent Customer,Yes,QLD,0
+4,34,19,9,52.0,Female,Affluent Customer,No,NSW,0
+5,39,22,7,66.0,Female,High Net Worth,Yes,QLD,0
+6,23,8,7,41.0,Male,Mass Customer,No,NSW,0
+7,74,10,5,45.0,Female,Mass Customer,Yes,QLD,0
+8,50,5,10,45.0,Male,Mass Customer,Yes,NSW,0
+9,72,17,5,32.0,Male,Mass Customer,Yes,QLD,0
+10,94,3,6,22.0,Male,High Net Worth,No,QLD,0
+11,48,10,8,18.0,Male,Mass Customer,No,VIC,1
+12,60,9,11,27.0,Male,Mass Customer,No,NSW,0
+13,38,4,10,41.0,Female,Mass Customer,No,NSW,0
+14,32,10,8,53.0,Female,Mass Customer,No,QLD,0
+15,88,5,8,63.0,Male,Affluent Customer,Yes,NSW,0
+16,61,4,6,24.0,Female,Mass Customer,Yes,QLD,0
+17,83,14,10,41.0,Female,Mass Customer,No,VIC,1
+18,65,11,11,79.0,Female,Affluent Customer,Yes,NSW,0
+19,2,12,10,63.0,Female,High Net Worth,No,NSW,0
+20,11,13,9,49.0,Male,Mass Customer,Yes,NSW,0
+21,44,8,7,24.0,Male,Mass Customer,Yes,NSW,0
+22,26,3,4,19.0,Male,Mass Customer,No,QLD,0
+23,5,13,8,40.0,Female,Affluent Customer,Yes,NSW,0
+24,78,4,5,35.0,Female,Mass Customer,No,QLD,0
+25,11,17,4,72.0,Male,Mass Customer,No,QLD,0
+26,19,7,2,65.0,Female,Mass Customer,Yes,NSW,0
+27,71,5,11,51.0,Female,High Net Worth,Yes,QLD,0
+28,84,11,7,57.0,Female,High Net Worth,No,QLD,0
+29,45,8,10,57.0,Female,High Net Worth,No,VIC,1
+30,62,17,8,37.0,Female,High Net Worth,Yes,NSW,0
+31,70,12,2,66.0,Male,Mass Customer,Yes,NSW,0
+32,88,7,7,30.0,Female,Mass Customer,Yes,NSW,0
+33,71,9,9,36.0,Male,Mass Customer,No,QLD,0
+34,27,20,9,40.0,Female,Affluent Customer,No,VIC,1
+35,48,13,1,42.0,Female,Affluent Customer,Yes,QLD,0
+36,76,13,10,49.0,Male,High Net Worth,No,NSW,0
+37,58,15,8,38.0,Male,Mass Customer,No,VIC,1
+38,44,13,2,62.0,Male,Mass Customer,Yes,VIC,1
+39,64,8,9,24.0,Male,Affluent Customer,Yes,NSW,0
+40,73,10,8,64.0,Female,High Net Worth,No,NSW,0
+41,24,3,10,32.0,Female,Mass Customer,No,VIC,1
+42,79,8,10,71.0,Female,Mass Customer,No,NSW,0
+43,52,9,8,51.0,Female,Affluent Customer,No,NSW,1
+44,76,6,5,56.0,Male,High Net Worth,No,VIC,1
+45,29,5,12,61.0,Female,High Net Worth,Yes,NSW,0
+46,14,19,1,61.0,Female,Affluent Customer,Yes,QLD,0
+47,85,14,4,23.0,Female,High Net Worth,Yes,QLD,0
+48,59,17,7,40.0,Female,Mass Customer,Yes,VIC,1
+49,12,20,12,67.0,Male,Mass Customer,No,NSW,0
+50,60,10,8,39.0,Male,Affluent Customer,No,VIC,0
+51,62,5,8,18.0,Male,Affluent Customer,Yes,QLD,0
+52,55,11,7,24.0,Male,High Net Worth,Yes,VIC,1
+53,97,8,10,36.0,Female,Mass Customer,No,NSW,0
+54,87,16,10,22.0,Female,Mass Customer,No,VIC,1
+55,52,9,10,36.0,Female,Mass Customer,No,NSW,0
+56,75,12,8,38.0,Male,Mass Customer,No,NSW,0
+57,51,14,9,45.0,Female,Mass Customer,No,VIC,1
+58,64,8,5,51.0,Male,Mass Customer,Yes,VIC,1
+59,5,4,5,45.0,U,Mass Customer,No,VIC,0
+60,47,17,7,34.0,Male,High Net Worth,Yes,NSW,0
+61,31,9,9,46.0,Male,Mass Customer,Yes,NSW,0
+62,59,11,10,75.0,Male,High Net Worth,No,NSW,0
+63,70,17,6,50.0,Female,High Net Worth,Yes,QLD,0
+64,22,7,7,18.0,Female,High Net Worth,Yes,QLD,0
+65,58,12,8,34.0,Female,High Net Worth,No,NSW,1
+66,69,5,11,21.0,Female,Affluent Customer,Yes,QLD,0
+67,54,16,7,33.0,Female,Affluent Customer,Yes,QLD,0
+68,62,3,5,18.0,Male,High Net Worth,Yes,QLD,0
+69,82,6,7,29.0,Female,High Net Worth,Yes,QLD,0
+70,11,13,7,21.0,Female,High Net Worth,Yes,NSW,0
+71,78,9,10,23.0,Female,Mass Customer,No,NSW,0
+72,73,15,9,18.0,Female,High Net Worth,No,QLD,0
+73,5,15,9,49.0,Male,High Net Worth,No,NSW,0
+74,76,19,9,59.0,Female,Affluent Customer,Yes,NSW,0
+75,98,10,12,43.0,Male,High Net Worth,Yes,NSW,0
+76,0,17,9,56.0,Male,Mass Customer,No,NSW,0
+77,36,13,7,61.0,Female,Affluent Customer,Yes,VIC,1
+78,15,13,10,45.0,Female,Mass Customer,Yes,NSW,0
+79,15,6,6,44.0,Female,High Net Worth,No,NSW,1
+80,53,15,12,22.0,Male,Mass Customer,No,NSW,0
+81,34,9,8,52.0,Female,Mass Customer,No,NSW,0
+82,14,5,9,36.0,Female,Mass Customer,No,NSW,0
+83,58,8,12,42.0,Male,High Net Worth,No,VIC,1
+84,48,16,10,56.0,Male,High Net Worth,Yes,NSW,0
+85,9,13,10,68.0,Female,High Net Worth,No,NSW,0
+86,8,5,9,18.0,Female,Affluent Customer,No,NSW,0
+87,5,13,12,75.0,Male,High Net Worth,No,NSW,0
+88,49,14,9,67.0,Male,Mass Customer,Yes,NSW,0
+89,24,16,2,46.0,Male,Affluent Customer,No,QLD,1
+90,93,15,10,25.0,Male,Affluent Customer,No,NSW,0
+91,34,19,7,39.0,Female,Mass Customer,No,NSW,0
+92,84,11,9,40.0,Female,Mass Customer,No,NSW,0
+93,94,14,8,65.0,Male,Affluent Customer,Yes,QLD,0
+94,25,12,5,39.0,Male,Mass Customer,No,QLD,0
+95,91,8,12,18.0,Male,High Net Worth,Yes,NSW,0
+96,18,15,4,74.0,Male,Mass Customer,Yes,VIC,1
+97,60,11,6,23.0,Male,Mass Customer,No,QLD,0
+98,26,11,10,45.0,Male,High Net Worth,No,NSW,0
+99,30,14,8,17.0,Female,High Net Worth,Yes,VIC,1
+100,84,3,4,26.0,Female,Mass Customer,No,QLD,0
+101,56,12,2,23.0,Female,Mass Customer,No,QLD,0
+102,19,9,2,77.0,Male,Mass Customer,No,NSW,0
+103,64,8,2,37.0,Female,Affluent Customer,No,VIC,0
+104,59,15,6,56.0,Female,High Net Worth,Yes,VIC,1
+105,50,16,3,71.0,Male,Mass Customer,Yes,QLD,0
+106,21,18,9,54.0,Female,Mass Customer,No,NSW,0
+107,14,19,8,45.0,Male,High Net Worth,No,VIC,1
+108,95,5,1,56.0,Female,Mass Customer,No,NSW,0
+109,1,16,8,48.0,Female,Mass Customer,Yes,QLD,0
+110,95,7,7,49.0,Female,Mass Customer,Yes,VIC,1
+111,37,11,5,78.0,Male,Mass Customer,Yes,QLD,0
+112,72,14,11,56.0,Male,High Net Worth,No,NSW,0
+113,0,5,2,22.0,Female,Mass Customer,No,VIC,1
+114,53,18,6,40.0,Female,Affluent Customer,No,QLD,1
+115,45,5,5,20.0,Male,Mass Customer,No,NSW,0
+116,64,17,9,71.0,Male,Affluent Customer,Yes,NSW,0
+117,21,6,9,39.0,Female,High Net Worth,Yes,VIC,1
+118,37,4,7,30.0,Male,Mass Customer,Yes,QLD,0
+119,2,7,4,65.0,Female,Mass Customer,Yes,NSW,0
+120,71,4,8,36.0,Male,Affluent Customer,No,NSW,0
+121,57,9,10,20.0,Male,Mass Customer,No,NSW,0
+122,86,6,8,48.0,Female,High Net Worth,No,NSW,0
+123,3,4,4,42.0,Female,Mass Customer,No,QLD,0
+124,44,15,5,76.0,Male,High Net Worth,Yes,QLD,0
+125,71,6,3,61.0,Male,Mass Customer,Yes,VIC,1
+126,66,21,1,64.0,Female,Affluent Customer,No,VIC,1
+127,13,9,1,42.0,Male,Mass Customer,Yes,NSW,0
+128,42,12,1,77.0,Female,Mass Customer,No,QLD,0
+129,51,5,7,27.0,Female,Affluent Customer,Yes,NSW,0
+130,78,5,2,55.0,Female,Affluent Customer,Yes,NSW,0
+131,38,13,7,52.0,Male,Mass Customer,Yes,VIC,1
+132,11,15,4,57.0,Female,Mass Customer,Yes,QLD,0
+133,29,9,9,32.0,Male,Mass Customer,No,NSW,0
+134,27,14,8,39.0,Female,Affluent Customer,Yes,NSW,0
+135,89,19,7,47.0,Male,Mass Customer,No,NSW,0
+136,90,4,5,27.0,Female,Affluent Customer,No,QLD,0
+137,28,16,4,50.0,Male,Mass Customer,Yes,NSW,0
+138,12,12,3,38.0,Female,Mass Customer,Yes,NSW,0
+139,60,3,8,37.0,Female,Mass Customer,Yes,VIC,1
+140,92,16,9,51.0,Male,Affluent Customer,Yes,VIC,0
+141,14,15,9,16.0,Male,Affluent Customer,Yes,NSW,0
+142,28,20,8,68.0,Male,Mass Customer,Yes,QLD,0
+143,6,17,9,42.0,Male,High Net Worth,Yes,NSW,0
+144,4,6,1,36.0,Female,Mass Customer,No,QLD,0
+145,40,15,9,67.0,Female,Mass Customer,No,NSW,0
+146,82,17,8,52.0,Female,Mass Customer,No,NSW,0
+147,38,16,10,48.0,Male,Mass Customer,No,NSW,0
+148,58,19,6,48.0,Female,High Net Worth,No,VIC,1
+149,39,17,8,46.0,Female,Mass Customer,No,NSW,0
+150,60,4,3,50.0,Female,Affluent Customer,Yes,QLD,0
+151,30,14,8,56.0,Female,Affluent Customer,Yes,NSW,0
+152,61,18,11,48.0,Male,Mass Customer,Yes,NSW,0
+153,54,11,5,56.0,Male,Mass Customer,No,VIC,1
+154,6,9,5,61.0,Male,Mass Customer,No,QLD,0
+155,74,19,9,54.0,Female,Mass Customer,Yes,NSW,0
+156,89,21,9,41.0,Female,Mass Customer,No,QLD,0
+157,16,7,9,60.0,Female,Mass Customer,No,NSW,0
+158,4,6,9,39.0,Female,Mass Customer,Yes,VIC,1
+159,27,10,9,66.0,Male,High Net Worth,No,NSW,0
+160,37,4,12,31.0,Male,Affluent Customer,No,NSW,0
+161,23,10,11,22.0,Female,Mass Customer,Yes,VIC,1
+162,60,9,2,48.0,Female,Affluent Customer,Yes,NSW,0
+163,96,19,3,66.0,Male,High Net Worth,Yes,QLD,0
+164,3,3,11,38.0,Female,Mass Customer,Yes,NSW,0
+165,55,4,10,41.0,Male,Mass Customer,No,NSW,0
+166,65,12,3,44.0,Female,High Net Worth,No,NSW,0
+167,55,8,4,28.0,Female,Mass Customer,Yes,QLD,0
+168,99,15,9,65.0,Female,Affluent Customer,No,VIC,1
+169,33,13,7,31.0,Male,Affluent Customer,No,VIC,0
+170,42,14,9,62.0,Female,Affluent Customer,No,NSW,0
+171,36,10,11,61.0,Male,Mass Customer,Yes,NSW,0
+172,60,4,6,28.0,Male,Mass Customer,Yes,NSW,0
+173,56,16,1,22.0,Male,Affluent Customer,Yes,VIC,0
+174,72,5,8,62.0,Female,Mass Customer,No,VIC,1
+175,54,7,9,25.0,Female,High Net Worth,No,NSW,0
+176,79,9,7,78.0,Female,High Net Worth,Yes,VIC,1
+177,51,16,9,65.0,Male,Mass Customer,No,NSW,0
+178,92,13,10,67.0,Male,Mass Customer,Yes,NSW,0
+179,71,5,9,42.0,Female,Mass Customer,No,QLD,0
+180,39,9,9,52.0,Male,High Net Worth,No,NSW,0
+181,78,18,7,43.0,Male,Mass Customer,No,QLD,0
+182,36,21,8,71.0,Male,High Net Worth,Yes,NSW,0
+183,34,13,7,43.0,Male,Mass Customer,Yes,NSW,0
+184,68,5,9,32.0,Female,Mass Customer,No,VIC,1
+185,65,3,10,25.0,Male,High Net Worth,Yes,VIC,0
+186,26,17,10,46.0,Female,High Net Worth,No,NSW,0
+187,67,17,8,44.0,Female,Mass Customer,Yes,NSW,0
+188,7,9,10,31.0,Female,High Net Worth,No,QLD,0
+189,74,10,9,21.0,Male,Affluent Customer,No,NSW,0
+190,32,8,11,25.0,Female,Affluent Customer,No,NSW,0
+191,55,7,8,79.0,Male,Mass Customer,Yes,NSW,0
+192,16,10,8,47.0,Female,High Net Worth,No,NSW,1
+193,47,7,10,48.0,Female,Mass Customer,No,NSW,0
+194,26,11,12,73.0,Female,Mass Customer,Yes,VIC,1
+195,6,16,3,45.0,Male,Affluent Customer,No,VIC,0
+196,60,7,9,36.0,Female,High Net Worth,No,QLD,0
+197,66,2,9,27.0,Female,High Net Worth,No,NSW,0
+198,44,3,3,24.0,Male,Affluent Customer,No,NSW,1
+199,55,12,4,51.0,Female,High Net Worth,Yes,QLD,0
+200,70,13,7,77.0,Male,Mass Customer,Yes,VIC,1
+201,84,15,8,58.0,Female,Mass Customer,No,NSW,0
+202,47,21,9,72.0,Male,Affluent Customer,Yes,NSW,0
+203,44,7,1,65.0,Female,Mass Customer,Yes,QLD,0
+204,2,2,7,19.0,Male,Mass Customer,No,NSW,0
+205,19,12,8,69.0,Female,Affluent Customer,Yes,NSW,0
+206,31,9,7,41.0,Male,Affluent Customer,No,QLD,1
+207,70,11,7,62.0,Female,Mass Customer,Yes,NSW,0
+208,12,19,9,59.0,Female,High Net Worth,No,NSW,0
+209,92,4,4,50.0,Male,Affluent Customer,No,QLD,0
+210,32,16,10,50.0,Male,Mass Customer,No,NSW,0
+211,82,5,8,34.0,Male,High Net Worth,Yes,NSW,0
+212,12,6,6,20.0,Male,Mass Customer,No,VIC,1
+213,28,10,8,61.0,Male,High Net Worth,No,NSW,1
+214,9,22,7,70.0,Female,Mass Customer,Yes,QLD,0
+215,11,4,11,17.0,Male,Mass Customer,No,NSW,0
+216,50,5,7,20.0,Female,Mass Customer,No,NSW,0
+217,8,18,2,54.0,Female,Affluent Customer,Yes,QLD,0
+218,78,18,11,37.0,Male,Mass Customer,Yes,NSW,0
+219,7,3,8,23.0,Male,Affluent Customer,No,NSW,1
+220,68,15,8,36.0,Male,Mass Customer,Yes,VIC,1
+221,66,7,9,38.0,Male,Mass Customer,Yes,NSW,0
+222,62,18,11,51.0,Female,Mass Customer,No,NSW,0
+223,66,9,8,17.0,Male,High Net Worth,No,NSW,0
+224,91,17,1,40.0,Male,Mass Customer,No,QLD,0
+225,0,15,8,17.0,Male,Mass Customer,Yes,QLD,0
+226,35,11,9,45.0,U,Affluent Customer,Yes,NSW,0
+227,54,8,9,53.0,Male,High Net Worth,No,NSW,0
+228,46,7,8,63.0,Female,Mass Customer,No,NSW,0
+229,48,14,4,54.0,Female,Affluent Customer,Yes,QLD,0
+230,52,14,10,39.0,Male,Mass Customer,Yes,NSW,0
+231,50,18,9,74.0,Male,Mass Customer,Yes,NSW,0
+232,94,14,9,52.0,Male,Mass Customer,No,NSW,0
+233,53,16,7,74.0,Female,Mass Customer,No,NSW,0
+234,25,13,8,20.0,Female,Mass Customer,Yes,VIC,1
+235,41,8,8,77.0,Male,Affluent Customer,No,NSW,1
+236,97,13,8,74.0,Female,High Net Worth,Yes,NSW,0
+237,30,8,10,78.0,Female,Mass Customer,Yes,NSW,0
+238,84,15,1,76.0,Female,Mass Customer,Yes,QLD,0
+239,4,5,8,56.0,Male,Mass Customer,Yes,QLD,0
+240,18,9,9,43.0,Female,High Net Worth,Yes,VIC,1
+241,94,5,9,58.0,Female,Mass Customer,No,QLD,0
+242,57,16,4,48.0,Male,Affluent Customer,Yes,VIC,0
+243,29,12,8,60.0,Male,Mass Customer,No,QLD,0
+244,2,19,5,67.0,Female,Mass Customer,Yes,QLD,0
+245,8,4,10,50.0,Female,Affluent Customer,Yes,VIC,1
+246,74,14,3,54.0,Female,High Net Worth,No,QLD,0
+247,49,10,7,46.0,Male,Affluent Customer,Yes,QLD,0
+248,59,11,4,39.0,Male,High Net Worth,Yes,NSW,0
+249,57,18,3,43.0,Male,High Net Worth,No,QLD,1
+250,90,11,10,42.0,Female,Mass Customer,No,NSW,0
+251,85,6,2,50.0,Male,Affluent Customer,Yes,QLD,0
+252,13,9,9,56.0,Female,Mass Customer,No,NSW,0
+253,91,9,9,37.0,Female,Mass Customer,No,NSW,0
+254,75,12,12,20.0,Female,High Net Worth,No,NSW,0
+255,17,16,10,78.0,Female,Mass Customer,No,VIC,1
+256,49,15,12,58.0,Female,Mass Customer,No,VIC,1
+257,37,5,3,55.0,Male,Mass Customer,No,QLD,0
+258,45,9,6,17.0,Female,Mass Customer,Yes,QLD,0
+259,41,19,10,46.0,Female,High Net Worth,No,NSW,0
+260,9,14,9,48.0,Female,Mass Customer,Yes,VIC,1
+261,21,6,6,26.0,Female,High Net Worth,No,QLD,1
+262,88,10,9,25.0,Male,Mass Customer,Yes,QLD,0
+263,36,7,5,69.0,Female,Mass Customer,Yes,QLD,0
+264,57,2,6,21.0,Male,Affluent Customer,Yes,QLD,0
+265,56,10,12,79.0,Female,Mass Customer,No,NSW,0
+266,81,18,8,48.0,Female,Mass Customer,Yes,NSW,0
+267,82,7,7,44.0,Female,Mass Customer,No,VIC,1
+268,70,14,7,66.0,Male,Affluent Customer,Yes,VIC,1
+269,89,8,8,45.0,Female,High Net Worth,No,NSW,0
+270,84,1,7,21.0,Male,High Net Worth,Yes,VIC,0
+271,70,5,3,56.0,Male,Mass Customer,Yes,NSW,0
+272,99,3,10,41.0,Female,Mass Customer,No,NSW,0
+273,48,6,9,61.0,Male,Mass Customer,No,NSW,0
+274,35,13,9,41.0,Male,Affluent Customer,No,NSW,0
+275,90,7,3,51.0,Female,Affluent Customer,Yes,VIC,0
+276,70,6,12,64.0,Female,High Net Worth,No,NSW,0
+277,50,5,9,55.0,Male,Affluent Customer,Yes,VIC,0
+278,64,16,9,41.0,Female,Mass Customer,Yes,VIC,1
+279,81,17,9,52.0,Female,Affluent Customer,No,VIC,0
+280,7,6,12,49.0,Male,Mass Customer,No,NSW,0
+281,26,10,8,46.0,Female,Mass Customer,Yes,VIC,1
+282,37,19,2,39.0,Female,Mass Customer,No,VIC,1
+283,81,17,7,58.0,Male,Mass Customer,No,QLD,0
+284,88,11,7,50.0,Female,Mass Customer,No,QLD,0
+285,3,19,3,60.0,Male,High Net Worth,Yes,NSW,0
+286,70,13,8,70.0,Male,Affluent Customer,No,QLD,0
+287,2,6,10,59.0,Female,Affluent Customer,No,QLD,0
+288,96,9,7,41.0,Female,Affluent Customer,Yes,NSW,0
+289,50,10,1,27.0,Male,High Net Worth,Yes,VIC,1
+290,95,12,11,36.0,Female,High Net Worth,No,NSW,0
+291,15,9,8,45.0,Male,Affluent Customer,No,VIC,0
+292,89,20,6,59.0,Male,Affluent Customer,No,VIC,1
+293,88,6,7,54.0,Female,Mass Customer,Yes,VIC,1
+294,36,4,8,37.0,Male,Mass Customer,No,QLD,0
+295,68,5,7,29.0,Female,Mass Customer,Yes,NSW,0
+296,73,19,8,47.0,Male,High Net Worth,No,NSW,0
+297,97,4,8,52.0,Male,Mass Customer,Yes,NSW,0
+298,91,10,8,26.0,Female,Mass Customer,No,NSW,0
+299,59,17,11,70.0,Female,Mass Customer,No,NSW,0
+300,39,10,5,29.0,Male,Mass Customer,Yes,QLD,0
+301,97,7,9,24.0,Female,Mass Customer,No,VIC,1
+302,79,11,12,36.0,Male,Affluent Customer,Yes,NSW,0
+303,56,11,11,68.0,Female,Affluent Customer,No,NSW,0
+304,42,13,8,62.0,Female,High Net Worth,Yes,QLD,0
+305,81,6,7,43.0,Female,Mass Customer,No,QLD,0
+306,1,11,9,63.0,Male,Affluent Customer,Yes,NSW,0
+307,63,18,3,58.0,Female,High Net Worth,Yes,NSW,0
+308,45,11,6,36.0,Female,Mass Customer,No,NSW,0
+309,21,14,6,46.0,Male,Mass Customer,Yes,NSW,0
+310,39,10,11,26.0,Female,High Net Worth,Yes,VIC,1
+311,28,5,5,52.0,Female,Mass Customer,No,VIC,1
+312,61,7,8,28.0,Male,High Net Worth,No,NSW,1
+313,95,7,11,49.0,Male,Mass Customer,No,NSW,0
+314,73,3,8,25.0,Female,High Net Worth,Yes,QLD,0
+315,96,18,9,39.0,Female,High Net Worth,No,VIC,0
+316,3,15,6,60.0,Female,Mass Customer,Yes,VIC,1
+317,20,15,7,32.0,Female,Mass Customer,Yes,QLD,0
+318,74,14,8,62.0,Female,Affluent Customer,Yes,NSW,0
+319,87,4,9,36.0,Male,Affluent Customer,Yes,NSW,0
+320,78,7,7,41.0,Male,High Net Worth,Yes,VIC,0
+321,23,12,6,40.0,Male,High Net Worth,No,NSW,1
+322,0,17,9,36.0,Female,Mass Customer,No,NSW,0
+323,35,9,9,25.0,Male,High Net Worth,No,VIC,1
+324,69,3,3,45.0,U,Mass Customer,Yes,VIC,0
+325,14,7,1,62.0,Female,High Net Worth,No,VIC,1
+326,17,18,4,65.0,Female,Mass Customer,Yes,QLD,0
+327,84,12,5,35.0,Male,Mass Customer,No,QLD,0
+328,32,21,6,39.0,Male,High Net Worth,No,QLD,1
+329,32,11,4,45.0,Female,Mass Customer,No,NSW,0
+330,17,9,3,18.0,Male,Affluent Customer,No,QLD,1
+331,46,15,9,58.0,Male,High Net Worth,Yes,NSW,0
+332,64,7,8,20.0,Male,Mass Customer,Yes,VIC,1
+333,33,9,2,39.0,Male,Affluent Customer,Yes,VIC,0
+334,62,15,10,72.0,Female,Mass Customer,Yes,NSW,0
+335,81,7,9,74.0,Male,Mass Customer,No,NSW,0
+336,8,16,7,18.0,Female,Mass Customer,Yes,VIC,1
+337,53,14,8,41.0,Male,Affluent Customer,No,VIC,0
+338,18,18,4,61.0,Male,Mass Customer,Yes,NSW,0
+339,80,7,9,42.0,Female,High Net Worth,Yes,VIC,0
+340,93,17,3,48.0,Female,Affluent Customer,Yes,QLD,0
+341,38,11,10,49.0,Female,Mass Customer,Yes,VIC,1
+342,84,10,6,66.0,Male,Affluent Customer,No,QLD,0
+343,22,16,10,78.0,Female,Mass Customer,Yes,QLD,0
+344,17,13,7,53.0,Male,Affluent Customer,Yes,QLD,0
+345,71,7,8,65.0,Female,Mass Customer,Yes,NSW,0
+346,43,7,9,76.0,Female,Mass Customer,Yes,NSW,0
+347,22,17,6,56.0,Male,High Net Worth,Yes,QLD,0
+348,11,5,1,64.0,Female,Mass Customer,No,NSW,0
+349,67,12,10,36.0,Male,High Net Worth,No,VIC,0
+350,18,17,8,61.0,Male,Mass Customer,No,QLD,0
+351,59,13,6,53.0,Female,Mass Customer,No,NSW,0
+352,74,17,10,73.0,Female,Mass Customer,Yes,VIC,1
+353,19,12,8,64.0,Male,Affluent Customer,Yes,NSW,0
+354,59,14,5,15.0,Female,Affluent Customer,Yes,VIC,1
+355,45,10,8,37.0,Female,Affluent Customer,No,NSW,1
+356,30,11,7,73.0,Female,Mass Customer,Yes,VIC,1
+357,59,12,11,46.0,Male,Affluent Customer,No,NSW,0
+358,65,5,8,45.0,U,Affluent Customer,No,QLD,0
+359,99,10,7,27.0,Male,High Net Worth,No,VIC,0
+360,71,11,7,45.0,U,Mass Customer,Yes,VIC,0
+361,7,12,10,38.0,Male,Mass Customer,No,NSW,0
+362,67,10,2,20.0,Female,Mass Customer,Yes,NSW,0
+363,13,13,11,60.0,Male,Mass Customer,No,VIC,1
+364,62,15,4,18.0,Female,Mass Customer,Yes,NSW,0
+365,60,18,10,36.0,Male,Affluent Customer,No,QLD,0
+366,84,11,8,46.0,Female,Mass Customer,No,NSW,0
+367,18,9,7,58.0,Male,High Net Worth,Yes,VIC,1
+368,6,20,9,60.0,Female,Mass Customer,Yes,NSW,0
+369,50,4,4,23.0,Male,High Net Worth,No,VIC,1
+370,57,11,11,39.0,Female,Mass Customer,No,QLD,0
+371,30,6,9,54.0,Male,Mass Customer,Yes,NSW,0
+372,4,9,10,43.0,Male,Mass Customer,No,NSW,0
+373,54,11,11,42.0,Male,Affluent Customer,No,VIC,0
+374,66,15,6,45.0,U,Mass Customer,No,QLD,0
+375,7,20,8,57.0,Male,High Net Worth,Yes,QLD,0
+376,60,10,2,43.0,Male,High Net Worth,No,QLD,1
+377,81,2,1,31.0,Female,High Net Worth,No,VIC,0
+378,34,14,6,43.0,Female,Affluent Customer,No,VIC,1
+379,40,16,5,75.0,Female,Mass Customer,Yes,QLD,0
+380,7,12,6,54.0,Female,Mass Customer,No,NSW,0
+381,4,2,12,21.0,Female,Affluent Customer,Yes,NSW,0
+382,85,8,10,53.0,Male,Mass Customer,Yes,NSW,0
+383,65,17,7,73.0,Female,Affluent Customer,No,NSW,0
+384,82,9,6,22.0,Male,Affluent Customer,Yes,VIC,0
+385,46,9,7,63.0,Male,High Net Worth,Yes,QLD,0
+386,11,13,8,56.0,Female,Mass Customer,No,NSW,0
+387,15,8,5,44.0,Female,Affluent Customer,Yes,VIC,1
+388,51,5,3,24.0,Male,Affluent Customer,No,QLD,1
+389,75,22,7,69.0,Female,Mass Customer,No,NSW,0
+390,25,21,6,38.0,Female,High Net Worth,No,VIC,1
+391,92,10,10,78.0,Female,Affluent Customer,No,NSW,0
+392,36,6,11,35.0,Male,Mass Customer,Yes,NSW,0
+393,10,19,9,67.0,Male,Mass Customer,No,VIC,1
+394,74,5,9,27.0,Male,Mass Customer,Yes,VIC,1
+395,73,9,12,56.0,Female,Mass Customer,Yes,NSW,0
+396,66,4,3,15.0,Female,Mass Customer,Yes,QLD,0
+397,84,15,5,56.0,Female,High Net Worth,Yes,QLD,0
+398,54,21,8,75.0,Male,Mass Customer,Yes,NSW,0
+399,72,18,10,38.0,Male,Affluent Customer,No,NSW,0
+400,53,12,5,41.0,Male,Mass Customer,No,NSW,0
+401,91,13,10,50.0,Female,Mass Customer,Yes,VIC,1
+402,56,13,7,62.0,Male,Mass Customer,Yes,VIC,1
+403,80,17,11,39.0,Male,Affluent Customer,Yes,NSW,0
+404,67,16,7,40.0,Female,High Net Worth,Yes,VIC,0
+405,5,13,11,37.0,Female,Mass Customer,Yes,NSW,0
+406,21,19,11,79.0,Male,Mass Customer,No,NSW,0
+407,24,12,7,21.0,Female,High Net Worth,No,VIC,1
+408,75,10,10,34.0,Female,High Net Worth,No,VIC,0
+409,15,18,7,60.0,Female,Affluent Customer,No,NSW,1
+410,81,21,8,71.0,Female,Mass Customer,Yes,NSW,0
+411,84,14,11,22.0,Male,Mass Customer,No,VIC,1
+412,65,17,8,63.0,Male,Mass Customer,No,NSW,0
+413,48,11,12,59.0,Female,High Net Worth,No,NSW,0
+414,37,9,9,79.0,Male,Mass Customer,No,NSW,0
+415,57,15,2,54.0,Male,Mass Customer,Yes,QLD,0
+416,57,17,3,64.0,Male,Affluent Customer,No,VIC,0
+417,46,7,3,28.0,Female,Mass Customer,No,NSW,0
+418,76,1,10,19.0,Male,Affluent Customer,Yes,NSW,0
+419,33,3,1,26.0,Female,Mass Customer,No,NSW,0
+420,90,12,11,69.0,Female,Mass Customer,No,NSW,0
+421,97,10,8,47.0,Male,Mass Customer,Yes,NSW,0
+422,3,12,9,26.0,Male,Mass Customer,No,NSW,0
+423,87,15,5,24.0,Male,Affluent Customer,No,VIC,0
+424,70,19,9,72.0,Male,Mass Customer,Yes,NSW,0
+425,13,20,9,70.0,Female,Mass Customer,Yes,QLD,0
+426,96,18,7,42.0,Female,Mass Customer,Yes,NSW,0
+427,52,13,9,48.0,Female,High Net Worth,No,NSW,0
+428,6,20,9,40.0,Female,Affluent Customer,Yes,NSW,0
+429,51,8,4,77.0,Female,Affluent Customer,No,NSW,1
+430,23,4,8,43.0,Male,Mass Customer,Yes,NSW,0
+431,58,17,9,42.0,Female,Mass Customer,Yes,NSW,0
+432,72,16,4,60.0,Male,Mass Customer,No,QLD,0
+433,61,12,8,39.0,Male,Affluent Customer,No,VIC,0
+434,52,7,5,45.0,U,Mass Customer,No,VIC,0
+435,15,22,7,44.0,Male,High Net Worth,Yes,VIC,1
+436,37,10,8,20.0,Male,High Net Worth,Yes,NSW,0
+437,28,7,2,43.0,Male,Affluent Customer,Yes,VIC,0
+438,47,7,10,65.0,Male,Mass Customer,No,NSW,0
+439,93,14,6,45.0,U,Mass Customer,Yes,VIC,0
+440,59,14,1,76.0,Female,High Net Worth,Yes,NSW,0
+441,16,15,8,20.0,Male,Affluent Customer,No,VIC,0
+442,30,14,2,30.0,Female,Mass Customer,Yes,NSW,0
+443,59,6,2,53.0,Female,Mass Customer,No,NSW,0
+444,76,10,7,45.0,Female,Mass Customer,Yes,QLD,0
+445,67,8,5,24.0,Male,Affluent Customer,No,QLD,0
+446,54,5,11,59.0,Male,High Net Worth,Yes,VIC,1
+447,83,8,4,51.0,Female,High Net Worth,Yes,QLD,0
+448,61,11,10,40.0,Male,Affluent Customer,No,NSW,0
+449,47,3,10,19.0,Female,High Net Worth,Yes,NSW,0
+450,84,9,4,21.0,Female,Mass Customer,No,VIC,1
+451,0,14,5,26.0,Female,High Net Worth,Yes,VIC,1
+452,12,21,9,74.0,Female,High Net Worth,No,NSW,0
+453,42,14,11,35.0,Male,High Net Worth,No,NSW,0
+454,70,17,11,32.0,Male,Mass Customer,No,NSW,0
+455,21,10,6,56.0,Female,High Net Worth,No,VIC,1
+456,17,17,3,41.0,Female,High Net Worth,No,QLD,1
+457,19,13,8,45.0,Female,Affluent Customer,Yes,QLD,0
+458,60,16,10,70.0,Female,Mass Customer,No,VIC,1
+459,7,21,12,66.0,Male,Affluent Customer,Yes,NSW,0
+460,67,14,3,43.0,Female,Mass Customer,Yes,QLD,0
+461,59,19,9,77.0,Female,Mass Customer,Yes,NSW,0
+462,24,8,4,70.0,Female,Mass Customer,No,VIC,1
+463,56,5,7,52.0,Male,Mass Customer,Yes,NSW,0
+464,25,16,11,40.0,Female,Mass Customer,No,NSW,0
+465,22,2,10,24.0,Female,High Net Worth,Yes,VIC,1
+466,42,19,8,45.0,Male,Mass Customer,No,QLD,0
+467,38,18,7,47.0,Female,Mass Customer,Yes,NSW,0
+468,75,10,9,17.0,Female,Mass Customer,No,NSW,0
+469,50,14,10,16.0,Female,Mass Customer,No,VIC,1
+470,50,4,7,27.0,Female,Mass Customer,Yes,QLD,0
+471,95,18,9,50.0,Male,Mass Customer,Yes,VIC,1
+472,9,7,10,18.0,Male,Affluent Customer,No,NSW,0
+473,99,20,5,61.0,Male,Affluent Customer,Yes,NSW,0
+474,31,15,10,38.0,Male,Mass Customer,Yes,NSW,0
+475,7,9,3,16.0,Male,Affluent Customer,Yes,NSW,0
+476,25,16,10,45.0,Female,Mass Customer,No,VIC,1
+477,43,11,8,22.0,Female,High Net Worth,No,NSW,1
+478,89,12,9,60.0,Male,Mass Customer,No,NSW,0
+479,73,15,7,66.0,Female,High Net Worth,No,NSW,0
+480,25,10,7,38.0,Male,Mass Customer,Yes,VIC,1
+481,97,8,2,58.0,Male,Mass Customer,Yes,VIC,1
+482,13,13,7,78.0,Female,Affluent Customer,No,NSW,1
+483,82,14,7,56.0,Male,Mass Customer,Yes,NSW,0
+484,29,11,4,47.0,Male,High Net Worth,No,VIC,1
+485,46,13,4,73.0,Male,High Net Worth,Yes,QLD,0
+486,69,8,6,51.0,Female,High Net Worth,No,VIC,0
+487,83,19,3,51.0,Male,High Net Worth,Yes,QLD,0
+488,4,6,1,23.0,Male,High Net Worth,Yes,VIC,1
+489,68,10,3,42.0,Female,Affluent Customer,Yes,NSW,0
+490,72,10,9,42.0,Female,Mass Customer,Yes,NSW,0
+491,56,11,8,52.0,Female,Mass Customer,No,VIC,1
+492,55,2,8,21.0,Female,Mass Customer,No,NSW,0
+493,15,21,9,73.0,Female,Mass Customer,Yes,VIC,1
+494,39,14,7,40.0,Male,Affluent Customer,No,QLD,1
+495,86,10,10,20.0,Male,Affluent Customer,Yes,NSW,0
+496,59,13,11,65.0,Female,High Net Worth,No,NSW,0
+497,69,15,4,57.0,Female,Affluent Customer,No,NSW,0
+498,56,6,9,28.0,Female,Mass Customer,No,NSW,0
+499,5,11,5,63.0,Female,Mass Customer,Yes,QLD,0
+500,82,16,10,50.0,Male,Mass Customer,No,VIC,1
+501,27,8,9,41.0,Male,Mass Customer,Yes,NSW,0
+502,10,17,7,43.0,Female,Affluent Customer,Yes,NSW,0
+503,68,20,4,57.0,Male,High Net Worth,Yes,QLD,0
+504,30,19,9,42.0,Female,Mass Customer,Yes,NSW,0
+505,13,11,7,72.0,Male,High Net Worth,No,NSW,1
+506,44,4,7,37.0,Male,Affluent Customer,No,VIC,0
+507,94,19,8,43.0,Female,Mass Customer,Yes,QLD,0
+508,6,13,9,41.0,Female,Mass Customer,Yes,NSW,0
+509,41,9,11,37.0,Male,Affluent Customer,No,NSW,0
+510,4,11,8,44.0,Male,Mass Customer,No,NSW,0
+511,57,12,9,18.0,Male,High Net Worth,No,VIC,1
+512,81,9,8,41.0,Female,High Net Worth,No,VIC,0
+513,94,10,2,63.0,Female,Mass Customer,Yes,QLD,0
+514,72,10,9,29.0,Female,Mass Customer,Yes,QLD,0
+515,91,9,2,46.0,Female,Mass Customer,No,VIC,1
+516,75,5,9,16.0,Male,Mass Customer,Yes,NSW,0
+517,87,11,8,53.0,Female,High Net Worth,Yes,QLD,0
+518,79,12,4,18.0,Female,Affluent Customer,No,NSW,0
+519,87,9,6,63.0,Female,Mass Customer,Yes,QLD,0
+520,33,12,9,66.0,Female,High Net Worth,No,NSW,0
+521,42,12,8,61.0,Male,Mass Customer,Yes,VIC,1
+522,60,2,12,26.0,Male,High Net Worth,No,NSW,0
+523,44,11,6,67.0,Male,Affluent Customer,Yes,NSW,0
+524,79,8,7,37.0,Male,High Net Worth,Yes,VIC,0
+525,11,13,10,63.0,Male,High Net Worth,Yes,VIC,1
+526,26,14,12,53.0,Female,Mass Customer,Yes,VIC,1
+527,97,13,8,64.0,Male,Affluent Customer,No,VIC,1
+528,59,9,9,45.0,Female,High Net Worth,No,NSW,0
+529,56,19,11,44.0,Female,High Net Worth,No,NSW,0
+530,18,12,4,19.0,Female,Mass Customer,No,NSW,0
+531,71,9,6,36.0,Female,Mass Customer,Yes,NSW,0
+532,61,8,8,31.0,Male,Mass Customer,No,VIC,1
+533,55,9,3,62.0,Male,Mass Customer,No,NSW,0
+534,62,22,8,65.0,Male,High Net Worth,Yes,VIC,1
+535,10,17,7,61.0,Female,Mass Customer,Yes,QLD,0
+536,16,15,6,39.0,Male,Mass Customer,Yes,NSW,0
+537,62,15,8,23.0,Male,Affluent Customer,No,VIC,0
+538,41,15,7,39.0,Female,High Net Worth,No,VIC,1
+539,37,7,12,20.0,Female,Mass Customer,No,NSW,0
+540,80,5,10,52.0,Male,High Net Worth,No,NSW,0
+541,78,13,5,41.0,Female,Affluent Customer,No,QLD,0
+542,10,16,9,42.0,Female,Affluent Customer,No,NSW,0
+543,68,8,7,67.0,Male,Mass Customer,No,NSW,0
+544,60,2,6,19.0,Male,High Net Worth,Yes,VIC,1
+545,0,13,12,40.0,Female,Mass Customer,No,NSW,0
+546,99,5,7,45.0,Female,Mass Customer,No,NSW,0
+547,37,9,10,44.0,Female,High Net Worth,Yes,NSW,0
+548,69,13,9,33.0,Male,Affluent Customer,No,NSW,0
+549,42,12,12,26.0,Female,High Net Worth,Yes,NSW,0
+550,34,11,9,38.0,Female,High Net Worth,Yes,VIC,1
+551,83,5,6,41.0,Female,High Net Worth,Yes,QLD,0
+552,12,13,3,18.0,Male,Mass Customer,Yes,QLD,0
+553,55,17,6,59.0,Female,Affluent Customer,No,NSW,1
+554,79,13,8,22.0,Female,High Net Worth,Yes,NSW,0
+555,23,12,7,24.0,Male,High Net Worth,No,NSW,1
+556,79,13,3,45.0,Male,High Net Worth,No,VIC,0
+557,46,13,9,23.0,Male,High Net Worth,No,NSW,0
+558,70,8,12,70.0,Male,High Net Worth,No,NSW,0
+559,60,13,6,67.0,Male,High Net Worth,No,NSW,1
+560,15,13,3,66.0,Male,Mass Customer,No,QLD,0
+561,80,5,8,63.0,Female,Mass Customer,No,QLD,0
+562,4,13,10,23.0,Male,Mass Customer,Yes,QLD,0
+563,67,13,10,50.0,Male,Affluent Customer,No,NSW,0
+564,87,20,9,62.0,Female,Affluent Customer,Yes,NSW,0
+565,73,15,6,62.0,Male,High Net Worth,Yes,NSW,0
+566,17,12,10,53.0,Female,High Net Worth,Yes,NSW,0
+567,40,14,7,31.0,Male,Mass Customer,Yes,VIC,1
+568,81,14,1,26.0,Male,Mass Customer,No,QLD,0
+569,66,2,7,16.0,Female,Mass Customer,Yes,QLD,0
+570,53,18,8,49.0,Female,Mass Customer,Yes,NSW,0
+571,81,21,9,67.0,Male,Mass Customer,Yes,NSW,0
+572,1,16,8,75.0,Male,Mass Customer,No,NSW,0
+573,49,18,7,52.0,Female,High Net Worth,Yes,VIC,1
+574,69,12,7,45.0,U,Mass Customer,No,NSW,0
+575,66,4,7,19.0,Female,Mass Customer,No,NSW,0
+576,90,7,2,74.0,Male,Affluent Customer,No,VIC,1
+577,33,9,9,41.0,Male,High Net Worth,Yes,NSW,0
+578,64,11,9,23.0,Female,Mass Customer,No,NSW,0
+579,75,13,8,23.0,Male,Mass Customer,Yes,VIC,1
+580,47,11,10,44.0,Female,Mass Customer,No,NSW,0
+581,3,13,8,27.0,Female,High Net Worth,Yes,QLD,0
+582,2,4,11,22.0,Female,Affluent Customer,Yes,NSW,0
+583,9,11,7,22.0,Male,Mass Customer,Yes,NSW,0
+584,26,10,1,66.0,Female,Mass Customer,No,VIC,1
+585,27,15,3,79.0,Female,Affluent Customer,No,VIC,1
+586,32,14,6,21.0,Male,Affluent Customer,No,QLD,1
+587,95,1,8,23.0,Male,Affluent Customer,Yes,QLD,0
+588,83,18,8,43.0,Male,High Net Worth,No,NSW,0
+589,39,17,7,30.0,Female,High Net Worth,Yes,VIC,1
+590,1,10,6,38.0,Male,Mass Customer,No,VIC,1
+591,44,13,8,21.0,Female,Affluent Customer,Yes,VIC,1
+592,83,7,5,52.0,Male,Mass Customer,No,VIC,1
+593,13,20,8,62.0,Male,Mass Customer,No,NSW,0
+594,21,8,3,44.0,Female,Affluent Customer,Yes,VIC,1
+595,6,10,8,59.0,Female,Mass Customer,Yes,VIC,1
+596,57,9,5,39.0,Male,Mass Customer,Yes,NSW,0
+597,29,1,11,23.0,Male,High Net Worth,No,NSW,0
+598,15,5,11,45.0,U,Affluent Customer,No,NSW,0
+599,59,14,12,78.0,Female,Mass Customer,No,NSW,0
+600,63,15,9,21.0,Male,Affluent Customer,Yes,NSW,0
+601,68,11,11,20.0,Male,Affluent Customer,Yes,NSW,0
+602,45,10,7,44.0,Female,Mass Customer,Yes,QLD,0
+603,93,10,7,56.0,Male,Affluent Customer,Yes,VIC,1
+604,27,12,10,51.0,Female,Affluent Customer,Yes,VIC,1
+605,33,20,9,62.0,Female,Affluent Customer,No,NSW,0
+606,96,20,8,62.0,Male,Mass Customer,Yes,NSW,0
+607,80,12,6,38.0,Female,Mass Customer,Yes,NSW,0
+608,70,5,8,47.0,Male,Mass Customer,Yes,NSW,0
+609,94,9,8,19.0,Female,Mass Customer,Yes,NSW,0
+610,65,16,7,41.0,Male,High Net Worth,No,QLD,0
+611,88,7,3,48.0,Female,Mass Customer,Yes,QLD,0
+612,29,17,8,67.0,Male,Affluent Customer,Yes,NSW,0
+613,37,14,8,66.0,Male,Mass Customer,Yes,VIC,1
+614,63,8,9,60.0,Female,Mass Customer,No,NSW,0
+615,62,6,12,54.0,Male,Mass Customer,Yes,NSW,0
+616,47,17,11,61.0,Female,Affluent Customer,Yes,NSW,0
+617,49,8,7,44.0,Female,Mass Customer,No,QLD,0
+618,61,16,9,58.0,Female,High Net Worth,No,NSW,0
+619,22,7,4,49.0,Female,Mass Customer,Yes,QLD,0
+620,88,6,2,62.0,Male,Mass Customer,Yes,NSW,0
+621,62,22,9,77.0,Female,Mass Customer,Yes,NSW,0
+622,31,8,7,19.0,Male,Mass Customer,Yes,QLD,0
+623,11,19,9,50.0,Male,Mass Customer,No,QLD,0
+624,97,5,9,57.0,Female,Affluent Customer,Yes,QLD,0
+625,51,6,9,24.0,Male,Affluent Customer,Yes,NSW,0
+626,17,7,7,44.0,Female,Affluent Customer,Yes,VIC,1
+627,30,9,7,56.0,Male,Mass Customer,No,QLD,0
+628,42,13,2,78.0,Male,Affluent Customer,Yes,NSW,0
+629,7,11,9,72.0,Male,Mass Customer,No,NSW,0
+630,43,16,7,30.0,Male,High Net Worth,Yes,NSW,0
+631,86,17,5,55.0,Female,Mass Customer,Yes,QLD,0
+632,3,13,8,42.0,Female,Mass Customer,Yes,VIC,1
+633,88,12,6,20.0,Male,Mass Customer,No,QLD,0
+634,96,16,5,63.0,Male,Mass Customer,Yes,QLD,0
+635,23,18,1,67.0,Male,High Net Worth,No,VIC,1
+636,97,8,10,39.0,Male,High Net Worth,No,NSW,0
+637,31,11,6,63.0,Female,Affluent Customer,Yes,VIC,1
+638,70,13,10,67.0,Female,Affluent Customer,Yes,NSW,0
+639,18,14,8,51.0,Female,Affluent Customer,No,VIC,1
+640,96,8,7,49.0,Female,High Net Worth,No,QLD,0
+641,42,13,8,35.0,Male,Mass Customer,No,NSW,0
+642,48,14,3,21.0,Female,Affluent Customer,No,QLD,1
+643,82,12,11,55.0,Male,Mass Customer,No,NSW,0
+644,51,18,8,41.0,Female,Affluent Customer,No,VIC,1
+645,38,14,8,77.0,Female,High Net Worth,Yes,NSW,0
+646,93,5,9,22.0,Male,Affluent Customer,Yes,NSW,0
+647,24,17,9,36.0,Male,Mass Customer,No,NSW,0
+648,18,15,9,75.0,Female,Mass Customer,Yes,QLD,0
+649,58,16,5,59.0,Male,High Net Worth,Yes,NSW,0
+650,42,5,8,29.0,Male,Mass Customer,No,NSW,0
+651,29,8,7,41.0,Male,Mass Customer,Yes,NSW,0
+652,98,1,9,20.0,Female,Mass Customer,Yes,VIC,1
+653,86,17,5,59.0,Female,Mass Customer,Yes,VIC,1
+654,11,15,12,66.0,Female,High Net Worth,Yes,VIC,1
+655,2,19,12,73.0,Female,Mass Customer,Yes,NSW,0
+656,6,14,6,32.0,Female,High Net Worth,Yes,VIC,1
+657,34,9,7,75.0,Female,Affluent Customer,Yes,NSW,0
+658,25,18,5,40.0,Female,Affluent Customer,Yes,VIC,1
+659,12,16,3,49.0,Male,Mass Customer,No,VIC,1
+660,73,6,11,26.0,Male,High Net Worth,No,VIC,0
+661,94,20,8,58.0,Male,Affluent Customer,Yes,NSW,0
+662,50,16,8,37.0,Female,High Net Worth,Yes,VIC,1
+663,59,17,11,77.0,Female,High Net Worth,No,NSW,0
+664,43,0,4,45.0,U,High Net Worth,Yes,VIC,1
+665,13,10,7,57.0,Male,Mass Customer,No,NSW,0
+666,41,12,7,57.0,Female,Mass Customer,No,VIC,1
+667,42,19,7,76.0,Female,High Net Worth,No,VIC,1
+668,52,9,8,41.0,Male,High Net Worth,Yes,NSW,0
+669,50,22,2,43.0,Female,Mass Customer,Yes,QLD,0
+670,3,9,10,58.0,Male,High Net Worth,No,VIC,1
+671,45,12,6,61.0,Female,Affluent Customer,No,QLD,1
+672,5,11,11,73.0,Female,High Net Worth,No,NSW,0
+673,20,20,8,61.0,Male,Mass Customer,Yes,NSW,0
+674,23,18,9,77.0,Female,Mass Customer,No,VIC,1
+675,73,12,9,55.0,Female,High Net Worth,No,NSW,0
+676,8,21,10,65.0,Female,Mass Customer,No,NSW,0
+677,99,15,8,51.0,Male,Mass Customer,No,NSW,0
+678,36,4,9,21.0,Female,Mass Customer,No,NSW,0
+679,93,7,12,47.0,Male,Mass Customer,Yes,NSW,0
+680,70,9,7,21.0,Female,Affluent Customer,Yes,NSW,0
+681,17,12,9,70.0,Male,Affluent Customer,No,QLD,0
+682,25,12,7,36.0,Female,Mass Customer,Yes,QLD,0
+683,98,10,1,39.0,Female,Mass Customer,Yes,NSW,0
+684,58,7,2,40.0,Male,High Net Worth,No,VIC,1
+685,95,3,6,37.0,Female,Mass Customer,Yes,NSW,0
+686,67,2,8,23.0,Male,Mass Customer,Yes,QLD,0
+687,22,11,9,76.0,Male,Mass Customer,No,NSW,0
+688,92,16,4,25.0,Female,High Net Worth,No,QLD,0
+689,69,7,9,79.0,Male,High Net Worth,Yes,NSW,0
+690,53,5,8,25.0,Female,Affluent Customer,Yes,VIC,1
+691,42,13,8,39.0,Male,Mass Customer,Yes,NSW,0
+692,70,18,9,44.0,Male,Affluent Customer,No,NSW,0
+693,96,9,5,63.0,Male,Mass Customer,No,QLD,0
+694,68,17,4,40.0,Male,High Net Worth,Yes,NSW,0
+695,91,13,9,26.0,Male,Mass Customer,Yes,NSW,0
+696,75,18,3,67.0,Female,High Net Worth,No,QLD,0
+697,31,7,8,60.0,Male,Mass Customer,No,NSW,0
+698,12,12,12,56.0,Female,High Net Worth,No,NSW,0
+699,8,7,3,43.0,Female,High Net Worth,No,QLD,1
+700,44,7,8,36.0,Female,High Net Worth,Yes,NSW,0
+701,39,13,11,43.0,Female,High Net Worth,No,NSW,0
+702,97,6,8,52.0,Male,Mass Customer,No,NSW,0
+703,44,13,9,44.0,Female,Mass Customer,No,QLD,0
+704,37,19,7,64.0,Female,Affluent Customer,Yes,VIC,1
+705,99,16,11,66.0,Female,High Net Worth,No,NSW,0
+706,27,11,8,42.0,Male,Mass Customer,No,VIC,1
+707,18,8,5,71.0,Male,Mass Customer,Yes,NSW,0
+708,64,2,7,18.0,Female,Mass Customer,No,NSW,0
+709,57,14,8,45.0,Male,Affluent Customer,Yes,NSW,0
+710,85,9,8,34.0,Female,Mass Customer,Yes,VIC,1
+711,14,6,9,34.0,Male,Mass Customer,Yes,QLD,0
+712,28,18,2,46.0,Male,Affluent Customer,Yes,QLD,0
+713,47,17,3,42.0,Female,Mass Customer,No,QLD,0
+714,74,12,11,67.0,Female,High Net Worth,No,NSW,0
+715,82,10,2,54.0,Female,Mass Customer,Yes,NSW,0
+716,8,4,7,52.0,Male,Affluent Customer,Yes,VIC,0
+717,26,9,10,51.0,Female,Mass Customer,Yes,QLD,0
+718,15,9,9,18.0,Female,Affluent Customer,Yes,VIC,1
+719,71,7,9,51.0,Male,Mass Customer,Yes,NSW,0
+720,12,5,4,39.0,Male,Mass Customer,No,NSW,0
+721,71,5,8,45.0,Male,Mass Customer,Yes,NSW,0
+722,36,17,6,52.0,Male,Mass Customer,No,VIC,1
+723,40,21,11,40.0,Female,Affluent Customer,Yes,VIC,1
+724,54,10,9,48.0,Female,Mass Customer,Yes,NSW,0
+725,83,16,9,47.0,Male,Mass Customer,No,VIC,1
+726,37,9,10,20.0,Male,High Net Worth,Yes,NSW,0
+727,75,10,7,24.0,Male,Mass Customer,Yes,NSW,0
+728,28,12,11,61.0,Male,Affluent Customer,Yes,NSW,0
+729,60,16,9,56.0,Female,Affluent Customer,Yes,NSW,0
+730,87,11,10,20.0,Male,Mass Customer,Yes,NSW,0
+731,40,5,5,25.0,Female,Mass Customer,Yes,QLD,0
+732,94,9,9,72.0,Female,Mass Customer,Yes,QLD,0
+733,35,15,2,26.0,Male,Mass Customer,No,QLD,0
+734,17,5,9,36.0,Male,Mass Customer,Yes,NSW,0
+735,11,9,7,27.0,Male,Mass Customer,Yes,QLD,0
+736,68,6,7,51.0,Female,Mass Customer,Yes,QLD,0
+737,52,17,7,54.0,Male,High Net Worth,Yes,QLD,0
+738,48,16,9,42.0,Male,High Net Worth,No,NSW,0
+739,42,19,1,70.0,Female,Affluent Customer,Yes,QLD,0
+740,49,9,5,78.0,Female,High Net Worth,No,QLD,1
+741,68,11,9,43.0,Male,Mass Customer,Yes,NSW,0
+742,97,10,6,16.0,Male,Mass Customer,Yes,VIC,1
+743,70,17,9,69.0,Female,Affluent Customer,Yes,QLD,0
+744,87,11,2,19.0,Male,Mass Customer,No,NSW,0
+745,43,8,10,41.0,Male,Affluent Customer,No,NSW,0
+746,86,7,3,37.0,Female,Mass Customer,No,QLD,0
+747,25,5,7,55.0,Female,Mass Customer,Yes,QLD,0
+748,99,21,9,42.0,Male,Mass Customer,Yes,QLD,0
+749,7,11,12,46.0,Female,Affluent Customer,No,NSW,0
+750,33,20,2,67.0,Male,Mass Customer,Yes,VIC,1
+751,20,14,7,45.0,U,High Net Worth,Yes,VIC,1
+752,45,15,9,57.0,Female,Mass Customer,Yes,VIC,1
+753,35,16,8,52.0,Male,Mass Customer,No,NSW,0
+754,87,12,7,43.0,Female,Mass Customer,No,VIC,1
+755,80,10,5,48.0,Male,Affluent Customer,No,QLD,0
+756,22,6,6,21.0,Male,Affluent Customer,Yes,VIC,0
+757,32,6,11,44.0,Female,Mass Customer,Yes,NSW,0
+758,69,17,7,35.0,Male,High Net Worth,No,NSW,0
+759,79,17,4,39.0,Female,High Net Worth,No,NSW,0
+760,51,21,3,44.0,Male,Affluent Customer,No,QLD,1
+761,5,7,7,30.0,Male,Mass Customer,No,QLD,0
+762,6,16,1,67.0,Male,Affluent Customer,No,QLD,1
+763,52,8,12,15.0,Male,Affluent Customer,No,NSW,0
+764,93,15,9,34.0,Male,Affluent Customer,Yes,VIC,0
+765,37,11,7,57.0,Male,High Net Worth,Yes,QLD,0
+766,89,8,4,18.0,Male,Affluent Customer,No,NSW,0
+767,4,6,8,27.0,Female,Affluent Customer,Yes,NSW,0
+768,11,9,10,52.0,Female,Mass Customer,Yes,NSW,0
+769,86,13,6,79.0,Female,High Net Worth,Yes,QLD,0
+770,86,22,8,70.0,Female,Mass Customer,No,VIC,1
+771,23,4,3,33.0,Female,Affluent Customer,No,NSW,1
+772,47,9,8,64.0,Male,High Net Worth,Yes,NSW,0
+773,11,4,9,28.0,Female,Mass Customer,Yes,VIC,1
+774,46,10,10,24.0,Male,High Net Worth,No,NSW,0
+775,62,5,1,45.0,U,Affluent Customer,No,VIC,1
+776,73,14,9,29.0,Female,Mass Customer,Yes,VIC,1
+777,38,18,10,51.0,Female,Affluent Customer,No,NSW,0
+778,40,6,8,45.0,Male,Mass Customer,Yes,NSW,0
+779,46,6,12,21.0,Female,Mass Customer,Yes,VIC,1
+780,30,10,10,36.0,Female,Mass Customer,No,NSW,0
+781,35,10,5,53.0,Female,Affluent Customer,Yes,QLD,0
+782,55,8,10,62.0,Male,High Net Worth,No,VIC,1
+783,98,12,9,25.0,Male,Mass Customer,No,NSW,0
+784,66,9,10,23.0,Male,Affluent Customer,No,NSW,0
+785,89,6,10,61.0,Male,High Net Worth,No,NSW,0
+786,48,11,12,60.0,Female,High Net Worth,Yes,VIC,1
+787,1,7,10,35.0,Male,High Net Worth,No,NSW,0
+788,49,9,2,37.0,Female,Affluent Customer,No,QLD,1
+789,32,9,10,25.0,Female,Mass Customer,Yes,NSW,0
+790,93,11,6,43.0,Female,Affluent Customer,Yes,NSW,0
+791,4,7,10,44.0,Male,Mass Customer,No,VIC,1
+792,79,18,6,63.0,Female,High Net Worth,No,NSW,0
+793,21,9,12,62.0,Male,Mass Customer,No,NSW,0
+794,61,13,9,66.0,Female,Affluent Customer,No,NSW,0
+795,1,10,2,48.0,Male,Mass Customer,No,QLD,0
+796,47,13,12,51.0,Female,Mass Customer,Yes,VIC,1
+797,7,12,9,79.0,Male,Mass Customer,No,NSW,0
+798,0,13,9,36.0,Female,Affluent Customer,No,NSW,0
+799,77,22,10,68.0,Male,Affluent Customer,No,NSW,0
+800,64,17,8,35.0,Female,High Net Worth,No,NSW,0
+801,25,14,11,43.0,Female,Mass Customer,Yes,NSW,0
+802,77,11,10,37.0,Female,Mass Customer,No,NSW,0
+803,79,21,5,66.0,Male,Mass Customer,No,QLD,0
+804,71,11,8,70.0,Male,Mass Customer,Yes,NSW,0
+805,12,20,7,65.0,Female,High Net Worth,No,VIC,1
+806,83,16,9,53.0,Male,Affluent Customer,No,QLD,0
+807,67,21,11,77.0,Male,High Net Worth,No,NSW,0
+808,94,8,7,32.0,Male,Mass Customer,No,NSW,0
+809,46,15,6,56.0,Female,Affluent Customer,No,VIC,1
+810,94,9,10,49.0,Female,Affluent Customer,Yes,NSW,0
+811,69,20,1,72.0,Male,Mass Customer,No,QLD,0
+812,39,9,7,39.0,Female,Affluent Customer,Yes,NSW,0
+813,72,15,4,26.0,Male,High Net Worth,Yes,VIC,0
+814,61,22,5,65.0,Female,High Net Worth,No,QLD,1
+815,34,3,7,17.0,Male,Affluent Customer,No,NSW,1
+816,38,5,8,57.0,Male,Mass Customer,No,QLD,0
+817,42,17,10,77.0,Male,Mass Customer,Yes,NSW,0
+818,1,17,10,52.0,Male,Affluent Customer,No,VIC,0
+819,65,14,8,29.0,Male,Affluent Customer,No,VIC,0
+820,96,12,8,29.0,Male,High Net Worth,No,VIC,0
+821,70,17,8,39.0,Male,Affluent Customer,No,VIC,0
+822,46,14,8,51.0,Male,Mass Customer,Yes,NSW,0
+823,36,16,7,40.0,Male,Mass Customer,No,QLD,0
+824,11,7,8,44.0,Female,Mass Customer,Yes,NSW,0
+825,43,9,6,46.0,Female,Mass Customer,No,VIC,1
+826,21,4,9,22.0,Male,Mass Customer,No,NSW,0
+827,49,9,8,17.0,Female,High Net Worth,No,QLD,1
+828,60,15,7,54.0,Female,High Net Worth,Yes,NSW,0
+829,67,5,12,25.0,Female,Mass Customer,Yes,NSW,0
+830,24,12,4,55.0,Female,Affluent Customer,No,VIC,1
+831,29,4,11,44.0,Female,High Net Worth,Yes,NSW,0
+832,66,10,10,50.0,Female,Mass Customer,Yes,NSW,0
+833,56,11,5,55.0,Male,High Net Worth,No,VIC,1
+834,79,15,7,54.0,Male,Mass Customer,No,QLD,0
+835,88,13,11,45.0,U,Mass Customer,No,NSW,0
+836,79,7,8,38.0,Male,Affluent Customer,Yes,QLD,0
+837,7,13,10,66.0,Male,Mass Customer,Yes,VIC,1
+838,66,7,8,23.0,Male,Mass Customer,No,NSW,0
+839,94,11,8,78.0,Male,Mass Customer,No,NSW,0
+840,74,19,8,69.0,Male,Mass Customer,Yes,NSW,0
+841,47,11,12,38.0,Male,Affluent Customer,No,NSW,0
+842,79,6,7,59.0,Female,High Net Worth,Yes,NSW,0
+843,25,12,9,16.0,Female,Mass Customer,No,NSW,0
+844,21,7,4,44.0,Female,Mass Customer,No,QLD,0
+845,22,3,5,23.0,Male,Mass Customer,No,NSW,0
+846,60,3,8,22.0,Female,Mass Customer,Yes,QLD,0
+847,42,5,8,35.0,Male,Mass Customer,Yes,VIC,1
+848,62,10,7,20.0,Female,High Net Worth,Yes,NSW,0
+849,66,12,4,60.0,Male,High Net Worth,No,QLD,0
+850,46,12,2,58.0,Female,High Net Worth,No,VIC,1
+851,63,17,9,61.0,Female,Mass Customer,No,NSW,0
+852,62,1,8,19.0,Male,Mass Customer,Yes,NSW,0
+853,29,9,10,75.0,Female,Affluent Customer,Yes,VIC,1
+854,45,5,10,37.0,Female,High Net Worth,Yes,NSW,0
+855,24,18,7,39.0,Male,Affluent Customer,Yes,VIC,0
+856,32,11,2,64.0,Male,Affluent Customer,Yes,QLD,0
+857,67,22,9,78.0,Female,Affluent Customer,Yes,NSW,0
+858,88,12,10,58.0,Male,Affluent Customer,Yes,NSW,0
+859,47,15,6,59.0,Female,High Net Worth,No,QLD,1
+860,37,8,6,38.0,Male,High Net Worth,Yes,VIC,1
+861,42,3,7,37.0,Male,Affluent Customer,No,VIC,0
+862,54,10,7,64.0,Male,Affluent Customer,No,NSW,1
+863,2,7,9,17.0,Female,Affluent Customer,Yes,NSW,0
+864,32,4,8,27.0,Female,Mass Customer,No,VIC,1
+865,57,21,2,70.0,Male,High Net Worth,Yes,VIC,1
+866,99,14,10,53.0,Female,High Net Worth,No,QLD,0
+867,11,12,11,56.0,Male,High Net Worth,Yes,NSW,0
+868,87,8,9,59.0,Female,Mass Customer,No,VIC,1
+869,95,12,11,43.0,Male,Mass Customer,Yes,NSW,0
+870,47,4,12,50.0,Female,Mass Customer,No,NSW,0
+871,76,7,3,56.0,Female,High Net Worth,Yes,NSW,0
+872,37,8,6,64.0,Female,High Net Worth,No,NSW,1
+873,50,21,10,43.0,Female,Mass Customer,Yes,VIC,1
+874,88,11,7,43.0,Male,Affluent Customer,No,VIC,0
+875,58,1,8,22.0,Male,Affluent Customer,Yes,VIC,0
+876,57,19,11,61.0,Female,Mass Customer,No,NSW,0
+877,43,13,9,69.0,Male,Affluent Customer,Yes,QLD,0
+878,30,13,10,23.0,Female,High Net Worth,Yes,NSW,0
+879,44,19,4,51.0,Male,Affluent Customer,No,NSW,1
+880,67,7,9,76.0,Male,High Net Worth,No,QLD,0
+881,63,9,6,44.0,Male,Mass Customer,Yes,QLD,0
+882,22,13,3,20.0,Female,Affluent Customer,Yes,VIC,1
+883,24,2,10,45.0,U,Affluent Customer,No,NSW,0
+884,48,14,7,53.0,Male,Mass Customer,No,VIC,1
+885,40,20,7,79.0,Male,Affluent Customer,Yes,NSW,0
+886,52,11,9,23.0,Male,Mass Customer,No,NSW,0
+887,27,5,9,60.0,Female,Affluent Customer,Yes,NSW,0
+888,72,5,9,37.0,Female,Affluent Customer,No,VIC,0
+889,64,16,6,46.0,Male,Affluent Customer,No,NSW,0
+890,57,9,1,61.0,Male,Mass Customer,Yes,VIC,1
+891,51,6,12,45.0,Male,Mass Customer,Yes,NSW,0
+892,11,15,3,18.0,Female,High Net Worth,Yes,NSW,0
+893,31,5,9,33.0,Male,High Net Worth,No,NSW,0
+894,54,6,4,17.0,Female,Mass Customer,Yes,QLD,0
+895,5,18,8,56.0,Male,Mass Customer,No,VIC,1
+896,46,7,5,76.0,Male,Affluent Customer,Yes,QLD,0
+897,47,10,9,58.0,Male,Mass Customer,No,NSW,0
+898,38,11,10,65.0,Female,Affluent Customer,No,NSW,0
+899,5,19,9,49.0,Male,High Net Worth,No,NSW,0
+900,1,13,7,47.0,Male,Mass Customer,No,VIC,1
+901,53,8,10,53.0,Female,Mass Customer,No,NSW,0
+902,48,9,6,21.0,Male,Mass Customer,No,VIC,1
+903,84,5,8,44.0,Female,Affluent Customer,Yes,NSW,0
+904,0,2,6,45.0,U,Mass Customer,No,NSW,0
+905,77,8,7,44.0,Female,Mass Customer,No,NSW,0
+906,27,17,5,50.0,Male,Affluent Customer,No,QLD,1
+907,57,12,7,54.0,Female,Mass Customer,No,VIC,1
+908,10,16,9,17.0,Male,Affluent Customer,No,NSW,0
+909,65,8,5,60.0,Female,Mass Customer,Yes,NSW,0
+910,49,18,10,42.0,Female,Mass Customer,No,NSW,0
+911,7,17,8,26.0,Female,Affluent Customer,No,VIC,1
+912,39,6,5,57.0,Male,Affluent Customer,Yes,QLD,0
+913,16,10,9,56.0,Female,High Net Worth,Yes,VIC,1
+914,86,21,9,78.0,Male,Mass Customer,No,NSW,0
+915,58,9,10,30.0,Female,High Net Worth,No,NSW,0
+916,14,13,2,38.0,Female,High Net Worth,Yes,QLD,0
+917,64,16,8,33.0,Female,High Net Worth,No,VIC,0
+918,71,3,9,29.0,Female,High Net Worth,No,QLD,0
+919,78,17,2,67.0,Male,High Net Worth,No,NSW,0
+920,45,14,6,59.0,Female,High Net Worth,Yes,NSW,0
+921,59,16,9,27.0,Female,Mass Customer,No,NSW,0
+922,51,3,10,36.0,Male,Mass Customer,Yes,NSW,0
+923,22,17,10,34.0,Female,High Net Worth,No,NSW,0
+924,2,15,10,44.0,Female,Mass Customer,Yes,NSW,0
+925,47,5,4,58.0,Female,Mass Customer,Yes,VIC,1
+926,61,20,9,60.0,Female,Mass Customer,No,QLD,0
+927,75,3,4,19.0,Male,High Net Worth,No,QLD,0
+928,84,13,7,39.0,Female,High Net Worth,Yes,NSW,0
+929,67,13,9,24.0,Female,Affluent Customer,Yes,VIC,0
+930,65,21,5,66.0,Male,Mass Customer,Yes,VIC,1
+931,98,8,10,41.0,Female,Affluent Customer,No,NSW,0
+932,30,12,10,30.0,Female,Mass Customer,Yes,NSW,0
+933,18,14,4,42.0,Male,Mass Customer,No,VIC,1
+934,5,6,4,57.0,Female,Mass Customer,No,VIC,1
+935,79,17,6,54.0,Female,Mass Customer,Yes,VIC,1
+936,16,8,8,53.0,Male,High Net Worth,Yes,VIC,1
+937,41,11,3,72.0,Female,High Net Worth,Yes,NSW,0
+938,77,17,4,77.0,Female,Mass Customer,No,QLD,0
+939,98,20,9,71.0,Male,High Net Worth,No,NSW,0
+940,61,21,8,43.0,Female,Mass Customer,Yes,VIC,1
+941,5,7,7,63.0,Female,Mass Customer,Yes,QLD,0
+942,63,8,3,46.0,Female,Affluent Customer,Yes,NSW,0
+943,90,8,10,43.0,Male,Mass Customer,No,VIC,1
+944,91,5,9,25.0,Male,Mass Customer,No,NSW,0
+945,63,8,7,76.0,Female,High Net Worth,No,NSW,1
+946,44,4,9,29.0,Female,High Net Worth,Yes,NSW,0
+947,35,17,4,25.0,Female,Mass Customer,No,VIC,1
+948,13,11,11,23.0,Male,High Net Worth,Yes,NSW,0
+949,23,2,8,34.0,Male,High Net Worth,No,VIC,1
+950,26,3,7,41.0,Female,Mass Customer,No,VIC,1
+951,67,6,7,51.0,Male,Mass Customer,Yes,QLD,0
+952,23,6,3,40.0,Female,Mass Customer,No,VIC,1
+953,74,15,11,55.0,Female,Mass Customer,Yes,NSW,0
+954,14,13,12,23.0,Female,High Net Worth,No,NSW,0
+955,12,6,7,48.0,Male,Mass Customer,Yes,VIC,1
+956,59,15,11,22.0,Female,Mass Customer,Yes,NSW,0
+957,83,9,9,53.0,Female,Mass Customer,Yes,QLD,0
+958,78,7,8,19.0,Female,Mass Customer,No,VIC,1
+959,62,4,4,50.0,Female,Mass Customer,No,VIC,1
+960,0,10,9,42.0,Female,Mass Customer,No,NSW,0
+961,15,11,3,30.0,Male,Mass Customer,No,VIC,1
+962,82,7,10,48.0,Male,Affluent Customer,Yes,NSW,0
+963,25,13,6,37.0,Female,Mass Customer,Yes,QLD,0
+964,42,15,10,42.0,Female,Mass Customer,Yes,NSW,0
+965,33,1,8,23.0,Male,Affluent Customer,No,NSW,1
+966,6,18,6,54.0,Female,Mass Customer,No,QLD,0
+967,74,14,12,57.0,Female,High Net Worth,No,NSW,0
+968,60,15,1,31.0,Male,High Net Worth,Yes,NSW,0
+969,3,15,8,66.0,Male,High Net Worth,Yes,NSW,0
+970,30,4,9,50.0,Female,Affluent Customer,Yes,NSW,0
+971,43,10,6,18.0,Female,Affluent Customer,No,VIC,1
+972,82,11,10,19.0,Male,Mass Customer,Yes,NSW,0
+973,37,13,5,51.0,Female,Mass Customer,Yes,QLD,0
+974,77,10,12,16.0,Female,Affluent Customer,Yes,VIC,0
+975,63,17,6,49.0,Male,Affluent Customer,Yes,VIC,0
+976,15,5,9,50.0,Male,Mass Customer,Yes,VIC,1
+977,56,9,10,79.0,Female,Mass Customer,No,NSW,0
+978,77,13,5,40.0,Male,Mass Customer,Yes,VIC,1
+979,93,9,12,31.0,Male,Mass Customer,Yes,NSW,0
+980,71,3,8,25.0,Female,Mass Customer,Yes,NSW,0
+981,83,22,1,66.0,Female,Affluent Customer,Yes,QLD,0
+982,45,8,5,61.0,Male,Mass Customer,No,NSW,0
+983,5,21,11,66.0,Female,Mass Customer,No,NSW,0
+984,82,0,10,45.0,U,Affluent Customer,Yes,NSW,0
+985,83,15,4,30.0,Female,Mass Customer,No,VIC,1
+986,41,7,8,58.0,Male,Mass Customer,Yes,NSW,0
+987,44,15,7,20.0,Female,Mass Customer,No,NSW,0
+988,64,11,7,74.0,Female,Mass Customer,Yes,NSW,0
+989,83,11,8,72.0,Female,High Net Worth,Yes,NSW,0
+990,60,9,6,63.0,Female,Mass Customer,Yes,QLD,0
+991,59,15,3,43.0,Male,Mass Customer,Yes,VIC,1
+992,32,8,3,44.0,Female,Mass Customer,Yes,QLD,0
+993,38,6,4,58.0,Male,Mass Customer,Yes,NSW,0
+994,15,3,12,27.0,Female,Mass Customer,No,VIC,1
+995,60,9,7,58.0,Male,Affluent Customer,No,NSW,1
+996,22,6,10,16.0,Male,Mass Customer,No,NSW,0
+997,17,15,2,63.0,Female,Affluent Customer,Yes,QLD,0
+998,30,19,2,65.0,Male,Mass Customer,Yes,QLD,0
+999,56,14,9,62.0,Male,Mass Customer,Yes,NSW,0
